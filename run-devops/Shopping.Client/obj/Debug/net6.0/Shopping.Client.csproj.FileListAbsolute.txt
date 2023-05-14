@@ -24,3 +24,5 @@ D:\Estudos\Kubernetes\run-devops\Shopping.Client\obj\Debug\net6.0\refint\Shoppin
 D:\Estudos\Kubernetes\run-devops\Shopping.Client\obj\Debug\net6.0\Shopping.Client.pdb
 D:\Estudos\Kubernetes\run-devops\Shopping.Client\obj\Debug\net6.0\Shopping.Client.genruntimeconfig.cache
 D:\Estudos\Kubernetes\run-devops\Shopping.Client\obj\Debug\net6.0\ref\Shopping.Client.dll
+D:\Estudos\Kubernetes\run-devops\Shopping.Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Estudos\Kubernetes\run-devops\Shopping.Client\obj\Debug\net6.0\Shopping.Client.csproj.CopyComplete
