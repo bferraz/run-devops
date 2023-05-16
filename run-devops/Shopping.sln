@@ -11,7 +11,8 @@ Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{32A6CC17-F39A-4E73-933C-62D73DF34A13}"
 	ProjectSection(SolutionItems) = preProject
-		..\yamls\teste.yml = ..\yamls\teste.yml
+		..\yamls\nginx-depl.yml = ..\yamls\nginx-depl.yml
+		..\yamls\nginx-service.yml = ..\yamls\nginx-service.yml
 	EndProjectSection
 EndProject
 Global
